@@ -1,0 +1,23 @@
+.board{
+    display:flex;
+    height:500px;
+    outline: 2px solid greenyellow;
+  }
+  #cell{
+    height:50px;
+    width:50px;
+    outline: 1px solid white
+  
+  
+  }
+  .row{
+    height: 30px;
+  
+  }
+
+  .snake{
+    background-color: red;
+  }
+  .food{
+    background-color: yellow;
+  }
